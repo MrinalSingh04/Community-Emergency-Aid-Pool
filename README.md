@@ -2,7 +2,7 @@
 
 ## 📌 What
 The **Community Emergency Aid Pool** is a decentralized fund where members contribute a fixed monthly amount.  
-When emergencies arise, members can **request funds**, and the community 🗳 votes on whether to approve the request.  
+When emergencies arise, members can **request funds**, and the community 🗳 votes on whether to approve the request.   
 If the majority votes in favor ✅, the requested amount is automatically sent 💸 to the recipient.
 
 **✨ Key Features:**
