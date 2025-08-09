@@ -10,7 +10,7 @@ If the majority votes in favor ✅, the requested amount is automatically sent �
 - 💰 **Monthly Contributions** – Fixed contribution amount ensures a stable fund. 
 - 🆘 **Emergency Requests** – Members can request funds when needed.
 - 🗳 **Voting Mechanism** – Each member votes to approve or reject. 
-- ⚡ **Automatic Execution** – Approved requests instantly release funds.
+- ⚡ **Automatic Execution** – Approved requests instantly release funds. 
 
 ---
 
